@@ -186,7 +186,7 @@ Open a Pull Request.
 
 Email- neethu.ceecs24@duk.ac.in
 
-Project Link:  https://github.com/Neethu-Muthu/MERN-IT_ASSET_MANAGEMENT-APP.git
+Project Link: (https://github.com/Neethu-Muthu/IT_ASSETMANAGEMENT_PROJECT_DOCKERIZED)
 
 
 This `README.md` includes all necessary details about the project, including setup, usage, project structure, API endpoints, and contribution guidelines.
