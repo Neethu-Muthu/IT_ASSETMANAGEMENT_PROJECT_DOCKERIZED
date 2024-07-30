@@ -55,7 +55,7 @@ docker-compose up --build
 
 This command will build the Docker images and start the containers for the application and MongoDB database.Once the containers are running, you can access the application in your web browser at: 
 
-http://localhost:3001
+http://localhost:3000
 
 To stop the containers, press Ctrl+C in the terminal where docker-compose is running, then use:
 
