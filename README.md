@@ -1,5 +1,20 @@
 # IT Asset Management Application
 
+## Project Demo
+
+### Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/your-video-id/0.jpg)](https://drive.google.com/file/d/your-file-id/view?usp=sharing)
+
+## Project Link
+
+you can see the project here (https://github.com/Neethu-Muthu/IT_ASSETMANAGEMENT_PROJECT_DOCKERIZED)
+
+## Project Report
+For a detailed report on the project, please refer to the [Project Report PDF](.[https://drive.google.com/file/d/1z3nLPN7AsSOCuAZMqVciTe-Eeu_aZ8O5/view?usp=drive_link])
+
+### Presentation
+[Download the Presentation](https://docs.google.com/presentation/d/15l-9Tspzn47lMXiPJsSw8DZ3W5MtrUYh/edit?usp=drive_link&ouid=116689071138385820690&rtpof=true&sd=true)
+
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Features](#features)
@@ -187,6 +202,12 @@ Open a Pull Request.
 Email- neethu.ceecs24@duk.ac.in
 
 Project Link: (https://github.com/Neethu-Muthu/IT_ASSETMANAGEMENT_PROJECT_DOCKERIZED)
+
+## Project Report
+For a detailed report on the project, please refer to the [Project Report PDF](.[/ASSETPRO-IT_MANAGEMENT_PROJECT_REPORT.pdf](https://drive.google.com/file/d/1z3nLPN7AsSOCuAZMqVciTe-Eeu_aZ8O5/view?usp=drive_link))
+
+
+
 
 
 This `README.md` includes all necessary details about the project, including setup, usage, project structure, API endpoints, and contribution guidelines.
