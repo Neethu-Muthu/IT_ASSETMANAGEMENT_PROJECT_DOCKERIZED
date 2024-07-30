@@ -10,7 +10,7 @@
 you can see the project here [See the Project here](https://github.com/Neethu-Muthu/IT_ASSETMANAGEMENT_PROJECT_DOCKERIZED.git)
 
 ## Project Report
-For a detailed report on the project, please refer to the [Project Report]([https://drive.google.com/file/d/1z3nLPN7AsSOCuAZMqVciTe-Eeu_aZ8O5/view?usp=sharing](https://drive.google.com/file/d/1z3nLPN7AsSOCuAZMqVciTe-Eeu_aZ8O5/view?usp=sharing))
+For a detailed report on the project, please refer to the [Project Report](https://drive.google.com/file/d/1z3nLPN7AsSOCuAZMqVciTe-Eeu_aZ8O5/view?usp=sharing).
 
 ### Presentation
 [Download the Presentation](https://docs.google.com/presentation/d/15l-9Tspzn47lMXiPJsSw8DZ3W5MtrUYh/edit?usp=drive_link&ouid=116689071138385820690&rtpof=true&sd=true)
